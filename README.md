@@ -1,2 +1,2 @@
 # currency_cources
-Django roject , which allow watch currency cources from cryptonator.com
+Django project , which allow watch currency cources from cryptonator.com
