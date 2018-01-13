@@ -15,3 +15,6 @@ class Currencies(models.Model):
     second_currency_short = models.CharField('Second currency short', max_length=5)
     cource = models.FloatField('Cource value',max_length=15)
 
+    def __str__(self):
+        return self.cource
+
